@@ -24,4 +24,4 @@ This is a Jupyter notebook. Package requirements are included in requirement.txt
 The notebook includes all the markdowns which explain the process.
 
 # Author
-This repo is maintained by Tushar Sharma(mailto: tushar1510sharma@gmail.com)
+This repo is maintained by Yash Chopra(mailto: choprayash6402@gmail.com)
